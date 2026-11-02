@@ -1,0 +1,9 @@
+{
+  "name": "przewidywanie-cen-nieruchomosci",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --host 127.0.0.1", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"react": "19.0.0", "react-dom": "19.0.0", "recharts": "2.15.3", "lucide-react": "0.468.0"},
+  "devDependencies": {"@vitejs/plugin-react": "4.4.1", "vite": "6.4.1", "tailwindcss": "3.4.17", "postcss": "8.5.6", "autoprefixer": "10.4.21"}
+}
